@@ -1,0 +1,2 @@
+let contractABI;
+let contractAddress;
