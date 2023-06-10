@@ -47,11 +47,3 @@ server will also work)
 
 
 
-## Additional Info.
-- I subconsciously tend to write complex solution to simple problem so if you found a simpler way 
-to a particular thing you can reach out to me on [twitter](https://twitter.com/gupta_shrinath) 
-and let me know.
-- I would like to thank Ankit Gupta @ankitecd for reviewing the `js/app.js` file.
-
-## License
-Bloc App is licensed under MIT LICENSE.
