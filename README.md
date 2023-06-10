@@ -45,10 +45,7 @@ server will also work)
 ## Screenshots
 ![Bloc App](https://github.com/gupta-shrinath/Bloc/blob/gupta-shrinath/images/bloc-app.png)
 
-## Credits
-#### [Icons8](https://icons8.com/)
-#### [Shields](https://shields.io/)
-#### [Sharanda](https://github.com/sharanda/manrope)
+
 
 ## Additional Info.
 - I subconsciously tend to write complex solution to simple problem so if you found a simpler way 
